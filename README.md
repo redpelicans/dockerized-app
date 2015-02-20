@@ -1,4 +1,4 @@
 # dockerized-app
 sample app to dockerize.
 
-See [blog](blog.redpelicans.com/dockerized)
+See [blog](http://blog.redpelicans.com/dockerized)
